@@ -1,6 +1,5 @@
 # WeChatMpDemo
-WeChat mpdemo|Python|Flask   
-一个用Python写的微信公众号开发接口Demo，使用到了Flask。
+WeChat mpdemo|Python|Flask 一个用Python写的微信公众号开发接口Demo，使用到了Flask。
 
 - 在微信公众号后台，可以配置使用服务器接口接管用户和公众号的互动，用户发的每一条消息都会通过http reques转发给你指定的后台接口。  
 - 收到消息以后你在5s内回复该http request特定格式的内容，你回复的信息就会透传给用户。
